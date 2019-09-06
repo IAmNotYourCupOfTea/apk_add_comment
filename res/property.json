@@ -1,0 +1,14 @@
+{
+    "tag": "outland",
+    "platform": "android",
+    "channel": 3000,
+    "template": 3000,
+    "group": 3000,
+    "specialFix": "0",
+    "meiqia": "1",
+    "meiqiaAndroid": "1",
+    "jiguangTags": [
+        "c1",
+        "t1"
+    ]
+}
